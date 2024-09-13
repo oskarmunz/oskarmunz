@@ -1,5 +1,7 @@
 ## About me
 
+Currently studying M.Sc. of Computer Science at University of Hamburg.
+
 ## Interests
 
 * programming language design
